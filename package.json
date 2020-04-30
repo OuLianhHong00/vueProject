@@ -20,7 +20,7 @@
     "@progress/kendo-vue-grid": "^0.3.4",
     "@progress/kendo-vue-intl": "^0.3.4",
     "@progress/kendo-vue-popup": "^0.3.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vue": "^2.6.10",
     "vue-class-component": "^7.1.0",
     "vue-router": "^3.0.3",
